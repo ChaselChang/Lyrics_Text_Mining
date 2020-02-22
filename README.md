@@ -10,6 +10,8 @@
 
 + This project is conducted by [Tianshu Zhang](https://www.linkedin.com/in/tianshu-zhang-chasel/).
 
++ Please feel free to contact me via LinkedIn or by email: tz2437@columbia.edu.
+
 + Project summary: Do musicians from different regions think differently?
 
 This is an analysis on usage of words, topics and sentiments of lyrics from different regions. To discover if there is a difference or some universal pattern throughout the world's lyrics.

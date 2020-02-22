@@ -7,7 +7,8 @@
 ### [Project Description](doc/)
 
 + Projec title: Text Mining on Lyrics
-+ This project is conducted by [Tianshu Zhang]
+
++ This project is conducted by [Tianshu Zhang](https://www.linkedin.com/in/tianshu-zhang-chasel/).
 
 + Project summary: Do musicians from different regions think differently?
 

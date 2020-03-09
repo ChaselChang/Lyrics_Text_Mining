@@ -1,6 +1,4 @@
-# Applied Data Science @ Columbia
-## Spring 2020
-## Project 1: Text Mining on Lyrics
+# Text Mining on Lyrics
 
 <img src="figs/title1.jpeg" width="500">
 
